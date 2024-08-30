@@ -1,0 +1,13 @@
+.style1{
+    font-family: sans-serif;
+    text-align: center;
+    width: 90vw;
+    margin: 5rem auto;
+    display: grid;
+    gap: 2rem;
+}
+
+h1{
+    text-align: center;
+    margin-top: 5rem;
+}
